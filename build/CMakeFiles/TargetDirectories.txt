@@ -1,0 +1,3 @@
+/home/alvaro/repos/linux-cmake-compdb-gh-actions-sq/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/repos/linux-cmake-compdb-gh-actions-sq/build/CMakeFiles/edit_cache.dir
+/home/alvaro/repos/linux-cmake-compdb-gh-actions-sq/build/CMakeFiles/sonar_scanner_example.dir

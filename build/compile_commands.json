@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alvaro/repos/linux-cmake-compdb-gh-actions-sq/build",
+  "command": "/usr/bin/c++      -std=gnu++17 -o CMakeFiles/sonar_scanner_example.dir/src/main.cpp.o -c /home/alvaro/repos/linux-cmake-compdb-gh-actions-sq/src/main.cpp",
+  "file": "/home/alvaro/repos/linux-cmake-compdb-gh-actions-sq/src/main.cpp"
+}
+]

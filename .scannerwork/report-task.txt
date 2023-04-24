@@ -1,0 +1,6 @@
+projectKey=sonarsource-cfamily-examples_linux-cmake-compdb-gh-actions-sq_AYCKCTwgbpi2xFX3-L27
+serverUrl=https://sonar-llt.laliga.es
+serverVersion=9.4.0.54424
+dashboardUrl=https://sonar-llt.laliga.es/dashboard?id=sonarsource-cfamily-examples_linux-cmake-compdb-gh-actions-sq_AYCKCTwgbpi2xFX3-L27
+ceTaskId=AYeys_GysciLiglnoiuK
+ceTaskUrl=https://sonar-llt.laliga.es/api/ce/task?id=AYeys_GysciLiglnoiuK
